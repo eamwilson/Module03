@@ -21,7 +21,7 @@ aside {
 text-align: right;
 border-right-style: solid;
 border-right-width: 20px;
-border-right-color:darkslateblue;
+border-right-color:lightcoral;
 padding-top: 5px;
 padding-right: 20px;
 width:20%
@@ -59,8 +59,8 @@ body {
                 text-align: justify;
                 border-left-width: 40px;
                 border-style: solid;
-                border-color: green;
-                background-color: lightyellow;
+                border-color: darkblue;
+                background-color: lightsteelblue;
             }
        }
 
