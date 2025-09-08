@@ -46,7 +46,7 @@ body {
 
     article{
         clear:both;
-        padding: 20px;
+        padding: 15px;
             h2 {
                 font-style: italic;
                 text-align: center;
@@ -69,7 +69,7 @@ footer {
     border-top-width: 1px;
     padding-top: 7px;
     text-align: right;
-    color: lightgray;
+    color: gray;
     font-style: italic;
 }
 
